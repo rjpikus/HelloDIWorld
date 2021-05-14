@@ -1,0 +1,13 @@
+C:\Users\Ray Pikus\source\repos\HelloDIWorld\HelloDIWorld\bin\Debug\netcoreapp3.1\HelloDIWorld.exe
+C:\Users\Ray Pikus\source\repos\HelloDIWorld\HelloDIWorld\bin\Debug\netcoreapp3.1\HelloDIWorld.deps.json
+C:\Users\Ray Pikus\source\repos\HelloDIWorld\HelloDIWorld\bin\Debug\netcoreapp3.1\HelloDIWorld.runtimeconfig.json
+C:\Users\Ray Pikus\source\repos\HelloDIWorld\HelloDIWorld\bin\Debug\netcoreapp3.1\HelloDIWorld.runtimeconfig.dev.json
+C:\Users\Ray Pikus\source\repos\HelloDIWorld\HelloDIWorld\bin\Debug\netcoreapp3.1\HelloDIWorld.dll
+C:\Users\Ray Pikus\source\repos\HelloDIWorld\HelloDIWorld\bin\Debug\netcoreapp3.1\HelloDIWorld.pdb
+C:\Users\Ray Pikus\source\repos\HelloDIWorld\HelloDIWorld\obj\Debug\netcoreapp3.1\HelloDIWorld.csprojAssemblyReference.cache
+C:\Users\Ray Pikus\source\repos\HelloDIWorld\HelloDIWorld\obj\Debug\netcoreapp3.1\HelloDIWorld.AssemblyInfoInputs.cache
+C:\Users\Ray Pikus\source\repos\HelloDIWorld\HelloDIWorld\obj\Debug\netcoreapp3.1\HelloDIWorld.AssemblyInfo.cs
+C:\Users\Ray Pikus\source\repos\HelloDIWorld\HelloDIWorld\obj\Debug\netcoreapp3.1\HelloDIWorld.csproj.CoreCompileInputs.cache
+C:\Users\Ray Pikus\source\repos\HelloDIWorld\HelloDIWorld\obj\Debug\netcoreapp3.1\HelloDIWorld.dll
+C:\Users\Ray Pikus\source\repos\HelloDIWorld\HelloDIWorld\obj\Debug\netcoreapp3.1\HelloDIWorld.pdb
+C:\Users\Ray Pikus\source\repos\HelloDIWorld\HelloDIWorld\obj\Debug\netcoreapp3.1\HelloDIWorld.genruntimeconfig.cache
